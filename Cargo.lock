@@ -183,6 +183,7 @@ name = "utransport-mock"
 version = "0.1.0"
 dependencies = [
  "up-core-api-wit",
+ "wit-bindgen-rt",
 ]
 
 [[package]]
